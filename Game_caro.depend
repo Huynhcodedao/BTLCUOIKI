@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1652261256 source:d:\c++\draft\game_caro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"config.h"
+	"botbaseline.h"
+
+1652161082 source:d:\c++\draft\game_caro\botbaseline.cpp
+	"botbaseline.h"
+
+1652161568 d:\c++\draft\game_caro\botbaseline.h
+	<iostream>
+	<stdlib.h>
+	"config.h"
+
+1652161301 d:\c++\draft\game_caro\config.h
+
+1652161104 source:d:\c++\draft\game_caro\config.cpp
+	"config.h"
+
+1653609972 source:d:\game\game_caro\botbaseline.cpp
+	"botbaseline.h"
+
+1653607145 d:\game\game_caro\botbaseline.h
+	<iostream>
+	<stdlib.h>
+	"config.h"
+
+1653606584 d:\game\game_caro\config.h
+
+1653606592 source:d:\game\game_caro\config.cpp
+	"config.h"
+
+1653679188 source:d:\game\game_caro\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"config.h"
+	"botbaseline.h"
+
+1653823632 source:c:\users\duc vu\downloads\game_caro (1)\botbaseline.cpp
+	"botbaseline.h"
+
+1653823632 c:\users\duc vu\downloads\game_caro (1)\botbaseline.h
+	<iostream>
+	<stdlib.h>
+	"config.h"
+
+1653823632 c:\users\duc vu\downloads\game_caro (1)\config.h
+
+1653823632 source:c:\users\duc vu\downloads\game_caro (1)\config.cpp
+	"config.h"
+
+1653823632 source:c:\users\duc vu\downloads\game_caro (1)\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"config.h"
+	"botbaseline.h"
+
+1653964910 source:c:\users\p50\onedrive\máy tính\game_caro (1)\botbaseline.cpp
+	"botbaseline.h"
+
+1653964910 c:\users\p50\onedrive\máy tính\game_caro (1)\botbaseline.h
+	<iostream>
+	<stdlib.h>
+	"config.h"
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<unistd.h>
+
+1653916687 c:\users\p50\onedrive\máy tính\game_caro (1)\config.h
+
+1653916687 source:c:\users\p50\onedrive\máy tính\game_caro (1)\config.cpp
+	"config.h"
+
+1653964910 source:c:\users\p50\onedrive\máy tính\game_caro (1)\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	"config.h"
+	"botbaseline.h"
+
